@@ -1,0 +1,10 @@
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+scikit-learn
+joblib
+requests
+wcwidth
+rich

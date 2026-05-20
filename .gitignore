@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project generated artifacts
+/Models/
+
+# Local documentation draft
+/Src/AppTrain.MD
